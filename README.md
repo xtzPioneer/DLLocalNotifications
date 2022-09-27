@@ -4,6 +4,7 @@
 
 
 [![Swift Version][swift-image]][swift-url]
+[![Swift Package Manager](https://img.shields.io/badge/Swift_Package_Manager-compatible-orange?style=flat-square)](https://img.shields.io/badge/Swift_Package_Manager-compatible-orange?style=flat-square)
 [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/DLLocalNotifications.svg)][podLink]
 ![Platform](https://img.shields.io/badge/platforms-iOS%2010.0+-333333.svg)
 [![Build Status](https://travis-ci.org/d7laungani/DLLocalNotifications.svg?branch=master)](https://travis-ci.org/d7laungani/DLLocalNotifications)

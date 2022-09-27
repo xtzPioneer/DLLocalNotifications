@@ -6,6 +6,7 @@
 //  Copyright © 2018 Devesh Laungani. All rights reserved.
 //
 
+import Foundation
 
 @available(iOS 10.0, *)
 public

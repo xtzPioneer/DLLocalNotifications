@@ -6,7 +6,6 @@
 //  Copyright © 2018 Devesh Laungani. All rights reserved.
 //
 
-// A wrapper class for creating a Category
 import Foundation
 import UserNotifications
 

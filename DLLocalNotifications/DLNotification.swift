@@ -6,7 +6,7 @@
 //  Copyright © 2018 Devesh Laungani. All rights reserved.
 //
 
-// A wrapper class for creating a User Notification
+import Foundation
 import UserNotifications
 import MapKit
 
